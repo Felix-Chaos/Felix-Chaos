@@ -1,29 +1,82 @@
-# Hi 👋, I'm Felix-Chaos
+<!-- Profile Header -->
+<table>
+  <tr>
+    <td width="180" align="center">
+      <img src="https://avatars.githubusercontent.com/u/46029764?v=4" alt="Felix-Chaos Avatar" width="150" style="border-radius:50%;" />
+    </td>
+    <td>
+      <h1>👋 Hi, I'm <strong>Felix-Chaos</strong></h1>
+      <p><em>A passionate hobbyist and tech enthusiast</em></p>
+      <p>
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=Felix-Chaos&theme=darkhub&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+        </a>
+      </p>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=Felix-Chaos&style=for-the-badge&color=blueviolet" alt="Profile views" />
+        <img src="https://img.shields.io/github/followers/Felix-Chaos?label=Followers&style=for-the-badge&color=brightgreen" alt="Followers" />
+        <img src="https://img.shields.io/github/stars/Felix-Chaos?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" alt="Stars" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### A passionate hobbyist
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Felix-Chaos&label=Profile views&color=0e75b6&style=flat" alt="Felix-Chaos" /> </p>
+- 🔭 I’m currently working on **[Actions & Stuff Patcher for RTX compatibility]([https://github.com/Felix-Chaos/Actions-Stuff-Patcher](https://github.com/Felix-Chaos/A-S-Minecraft-RTX-Community-Patcher))** 
+- 🌱 I’m currently learning **Java**, **PHP**, and expanding my knowledge in **C**  
+- 👯 I’m looking to collaborate on **interesting open-source projects**  
+- ⚡ Fun fact: **Chaos is my thing!**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Felix-Chaos" alt="Felix-Chaos" /></a> </p>
+---
 
-- 🔭 I'm currently working on **Actions & Stuff Patcher for RTX compability**
+### 🎯 Current Work Status
+- 🎓 Student at **FH Dortmund (University of Applied Sciences)** -> *Information Technology*  
+- 💼 Working a **part-time job**  
+- 🚀 Looking for **new job opportunities** alongside my studies  
 
-- 🌱 I'm currently learning **Java, PHP and expanding my knowledge in C**
+---
 
-- 👯 I'm looking to collaborate on **Some projects here and there.**
+### 💡 Hobbies & Interests
+-  Programming  
+-  3D Printing  
+-  Smart Home Setup
+-  Private Server Hosting 
 
-- ⚡ Fun fact **Chaos is my thing!**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🧩 Previous Projects
+- 🎮 **[Cosmetics MCPE Website](https://github.com/Felix-Chaos/CosmeticsMCPE-WEB-)** -> A fun customization project for Minecraft Pocket Edition  
+
+---
+
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://github.com/Felix-Chaos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Felix-Chaos" height="30" width="40" /></a>
-<a href="https://codepen.io/Felix-Chaos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Felix-Chaos" height="30" width="40" /></a>
+  <a href="https://github.com/Felix-Chaos" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://codepen.io/Felix-Chaos" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Felix-Chaos&show_icons=true&locale=en&layout=compact" alt="Felix-Chaos" /></p>
+### 🧰 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cs,css,html,java,js,linux,mysql,matlab,nodejs,php,photoshop,py" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Felix-Chaos&show_icons=true&locale=en" alt="Felix-Chaos" /></p>
+---
 
+### 📊 GitHub Stats
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felix-Chaos&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Felix-Chaos&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="100%" />
+    </td>
+  </tr>
+</table>
