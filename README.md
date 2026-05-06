@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on **[Actions & Stuff Patcher for RTX compatibility]([https://github.com/Felix-Chaos/Actions-Stuff-Patcher](https://github.com/Felix-Chaos/A-S-Minecraft-RTX-Community-Patcher))** 
 - 🌱 I’m currently learning **Java**, **PHP**, and expanding my knowledge in **C**  
 - 👯 I’m looking to collaborate on **interesting open-source projects**  
-- ⚡ Fun fact: **Chaos is my thing!**
+- ⚡ Fun fact: **You sometimes only learn by breaking it.**
 
 ---
 
