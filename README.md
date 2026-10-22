@@ -10,6 +10,7 @@
       <p>
         <a href="https://chaosdev.dev"><img src="https://img.shields.io/badge/chaosdev.dev-22c55e?style=for-the-badge&logoColor=white" alt="chaosdev.dev" /></a>
         <a href="https://felixlocal.de"><img src="https://img.shields.io/badge/felixlocal.de-blueviolet?style=for-the-badge" alt="felixlocal.de" /></a>
+        <a href="https://discord.gg/YrMMmN2kc7"><img src="https://img.shields.io/badge/Discord-Chaos%20Dev%20Projekts-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
       </p>
       <p>
         <img src="https://komarev.com/ghpvc/?username=Felix-Chaos&style=for-the-badge&color=blueviolet" alt="Profile views" />
@@ -56,12 +57,13 @@
 
 ### Older projects
 - **[Cosmetics MCPE Website](https://github.com/Felix-Chaos/CosmeticsMCPE-WEB-)**: a customization project for Minecraft Pocket Edition
-- **[Message Backup Bot](https://github.com/Felix-Chaos/message-backup-bot)**: open-sourced Discord message backup bot
-- **[SKR mini E3 with fixed CR Touch](https://github.com/Felix-Chaos/BIGTREETECH-SKR-mini-E3-Fixed-CR-Touch)**: firmware for the BTT SKR mini E3 board in an Ender 3
 
 ---
 
 ### Connect with me
+- Discord server: **[Chaos Dev Projekts](https://discord.gg/YrMMmN2kc7)** for support and updates on my projects
+- Discord profile: **[felixchaos](https://discord.com/users/425038927465021451)**
+
 <p align="left">
   <a href="https://github.com/Felix-Chaos" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
