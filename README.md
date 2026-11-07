@@ -10,7 +10,7 @@
       <p>
         <a href="https://chaosdev.dev"><img src="https://img.shields.io/badge/chaosdev.dev-22c55e?style=for-the-badge&logoColor=white" alt="chaosdev.dev" /></a>
         <a href="https://felixlocal.de"><img src="https://img.shields.io/badge/felixlocal.de-blueviolet?style=for-the-badge" alt="felixlocal.de" /></a>
-        <a href="https://discord.gg/YrMMmN2kc7"><img src="https://img.shields.io/badge/Discord-Chaos%20Dev%20Projekts-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
+        <a href="https://discord.gg/bkUdUU5Vn2"><img src="https://img.shields.io/badge/Discord-Chaos%20Dev%20Projekts-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
       </p>
       <p>
         <img src="https://komarev.com/ghpvc/?username=Felix-Chaos&style=for-the-badge&color=blueviolet" alt="Profile views" />
@@ -61,7 +61,7 @@
 ---
 
 ### Connect with me
-- Discord server: **[Chaos Dev Projekts](https://discord.gg/YrMMmN2kc7)** for support and updates on my projects
+- Discord server: **[Chaos Dev Projekts](https://discord.gg/bkUdUU5Vn2)** for support and updates on my projects
 - Discord profile: **[felixchaos](https://discord.com/users/425038927465021451)**
 
 <p align="left">
